@@ -1,0 +1,13 @@
+name = "Rebind Narrator"
+filename = "rebind_narrator-fabric-1.19.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "accf5f9bfabdb6402039051dbb213b81e2876061"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3953483
+project-id = 296996
