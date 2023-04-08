@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3ab8335df25b07e50404d9cb269badbceed9b5a3cbddd1fd5bc2a44e221dac95"
+hash = "ba4667516df5617d0716238852e84a5f88c83a94c3dfe0eaaa0ec3666c6038b0"
 metafile = true
 
 [[files]]
@@ -123,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/fix-experience-bug.pw.toml"
 hash = "627336b8e823ffcb097b0b30167a3a10dabc3c71f1b888ca09c79d106eea0a9a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "1c28550134fa3fbaa8893ecf1eef52d525c337649ba190f07ea2eeeacd556156"
 metafile = true
 
 [[files]]
