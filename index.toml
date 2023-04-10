@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "6090b07d4effa46513ff68eed3873ac0cff05667101c38c15eb5373e0e23ed3d"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "4d09afbccd4c5469b88602e12add007210bd3578c6313b2c8138937d1d547caf"
 metafile = true
@@ -86,6 +90,11 @@ hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "e28cdedaa23513cebb54443ebc09287a1c174daa2cf4644b8ab08cc66075f284"
+metafile = true
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "113845c6f34fc699d57dffe95e5c3ddd41cb996ddeb04ec21529e3159c3dc3bf"
 metafile = true
@@ -108,6 +117,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
 hash = "e16c3c7b7f85abcd007de5f7d4066284781700c1798d2e339b28af1193829235"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
 metafile = true
 
 [[files]]
@@ -136,6 +155,11 @@ hash = "7b2e0dac61bf96a1739c8e7d030b7c2f20d5080419b258feb0df05ab59a9e41c"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "f9bc943941a37dc1d097271801dfe6c3af3210c2b94ac2a0c86f46afa8370e60"
 metafile = true
@@ -158,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials-fabric.pw.toml"
 hash = "09bc812b3c7b8cb2524ee9db9d247ade8ba151125d5d80ce0215186e6e36c2a8"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "9c0052cbcfe29350d620eb9f4c84495a006ff82dee0ad3d45c15365552b0587a"
 metafile = true
 
 [[files]]
@@ -188,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "4f4db9b1764ee925a73b31c4df7f7fbcbfc315dac57707d390458f2f801e97b8"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "26a737742ab04c779ba6f6b31d12143bdf3ab935285dd6d1df119e14cff5ac9a"
 metafile = true
 
 [[files]]
@@ -236,6 +270,11 @@ hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "1ab8c725989f1dab85d5857a7846fc6096c715f74bd09ccb6a0191e27df57a37"
+metafile = true
+
+[[files]]
 file = "mods/pling.pw.toml"
 hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
 metafile = true
@@ -271,6 +310,11 @@ hash = "6297eb342a6b4d95e7231405f8cdbc203b90376e2ff65d71b9308518dee2d9cc"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "0dcc8eb3a49ef378caebfb320623c6a6e81471592d1367506785a8a1879dc2df"
+metafile = true
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "d8b366e849bb1eb654beb97e03bf12a8d52a165bf2a1f745d1c326985a773b9a"
 metafile = true
@@ -278,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "80575a5f4bfcb012bcd1e2472d715fe497922674be91fdb8308f6ef8f9392bfa"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e7bd1df79346e6c2df2b06a89caebcff0ffbdf4ad0cafb39657d153d756c3256"
 metafile = true
 
 [[files]]
@@ -311,6 +360,16 @@ hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "47ad7f43c9deaf64890c94d6cbafef248f80aeaea42a49a8d4888ba75a747045"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
+metafile = true
+
+[[files]]
 file = "mods/toast-manager.pw.toml"
 hash = "5eaa5695eb83ba34e0459283307ab27c260ada3adc73af3fffa7dbf212111f22"
 metafile = true
@@ -323,4 +382,9 @@ metafile = true
 [[files]]
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "7ea2524e033e5c0e36fe61e2643eddbbda8439eaebf7c3ddd2df1714ab2fe517"
 metafile = true
