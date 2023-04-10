@@ -5,6 +5,10 @@ file = "config/betterf3.json"
 hash = "6090b07d4effa46513ff68eed3873ac0cff05667101c38c15eb5373e0e23ed3d"
 
 [[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "10709b5ce1bb301dbf7843834edc09712822310c6cee53f122c5be4a7b6e6481"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "4d09afbccd4c5469b88602e12add007210bd3578c6313b2c8138937d1d547caf"
 metafile = true
@@ -382,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
