@@ -24,13 +24,28 @@ hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
 
 [[files]]
+file = "mods/apple-crates.pw.toml"
+hash = "8078f58f3764aa8cccbce0cb81223c061df20470ee0dca61183f7a1c593f78c7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "ca60abcfe34cce382cd93ef7e4cfe2e9a959d1389470256f5787f3db8396f9f0"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
+metafile = true
+
+[[files]]
+file = "mods/artifacts-fabric.pw.toml"
+hash = "fc341fd6b62ac129f6d6fc6f5cd0102355b911f033238360d4f052050c597d95"
 metafile = true
 
 [[files]]
@@ -64,6 +79,11 @@ hash = "4c8b3f9a71800e1f6e77c552601088e3de499512688dc817468c37f63edd67ce"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "802417d1c24f779c3fda82006012747309b11038c37d5c2f64a96257ad88dfa3"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.pw.toml"
 hash = "7ea37e2cbe755149aaaf569fd9999541fc766c6057fc7a062a715af51b387b93"
 metafile = true
@@ -84,6 +104,11 @@ hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
+file = "mods/coins-je.pw.toml"
+hash = "1a4840d4d231822d4cb0365c73c4e862dca8415f57598f93fa640e60beb85a64"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "0318b9dd838aec0a1b7d5393a80e0119efabbb4dba692ae8dbb239cd849876bd"
 metafile = true
@@ -101,6 +126,16 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "113845c6f34fc699d57dffe95e5c3ddd41cb996ddeb04ec21529e3159c3dc3bf"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "70ce754e40398d862eafd167cce1dffe619add7b9abf9600d8f172612d5b3d2a"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
 
 [[files]]
@@ -154,8 +189,28 @@ hash = "1c28550134fa3fbaa8893ecf1eef52d525c337649ba190f07ea2eeeacd556156"
 metafile = true
 
 [[files]]
+file = "mods/forgero.pw.toml"
+hash = "f963d3af268f8a259db4ea368347d96481e71cc0ddb4c89b55339047f11967b2"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "7b2e0dac61bf96a1739c8e7d030b7c2f20d5080419b258feb0df05ab59a9e41c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "fadeaf3af074696c20d84daae96044c22c60b8047fc3971120b0030f580c8993"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "bca83c69078cf988921a10928fdbceb915090542822bb5c17a021c4b810b52d8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "1449efe94903466204743ec0f4a7b0f1dba349f4b1e6d66c1e9fd8b69fe021b3"
 metafile = true
 
 [[files]]
@@ -194,8 +249,18 @@ hash = "9c0052cbcfe29350d620eb9f4c84495a006ff82dee0ad3d45c15365552b0587a"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "39abfc52501ba901b547833a04e8a926f16ed9de7d1e0813fd277cc9fe135c59"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "987e784f80893db4f142caba002a9f23fa2646e05b93a419d717d05dc9dc6d1b"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "3e1e8c00bc5bc09edd818450dde13da4983702b8c92b8178c9c51fccbd7a633d"
 metafile = true
 
 [[files]]
@@ -359,6 +424,11 @@ hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "98dacf43b37594d17c93c3de160a8cff6c108f816bfa2e79ee26a9e8240714a8"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
@@ -366,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "47ad7f43c9deaf64890c94d6cbafef248f80aeaea42a49a8d4888ba75a747045"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "183af625e797a215d65c677369274975a3895ecde9c101ddb421c5747de1b226"
 metafile = true
 
 [[files]]
@@ -381,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "6ef6600bda4c393935c9f984d9fd7603c34d50c3efec660e14fa5b7de75de6d1"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
 metafile = true
 
 [[files]]

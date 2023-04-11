@@ -1,0 +1,13 @@
+name = "Coins JE"
+filename = "Coins-Fabric-1.19.2-10.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0323fba8e7f93e6172c573891ff4a2796552f01f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4277163
+project-id = 377056
