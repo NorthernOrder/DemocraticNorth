@@ -153,6 +153,11 @@ hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "756145c4eb022d40fd55763432737ff870e4c09dd439a5a2bc684bba386d40fe"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
 metafile = true
@@ -480,6 +485,21 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers.pw.toml"
+hash = "b4918263643e419327c16c4493991cf62ba37b273b93cd5ed77f5b2ae02e07d2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a3375fd142e06deedd28c50d9dfc5ba8294121eac84b9c98d5a12a2475649aea"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
 metafile = true
 
 [[files]]
