@@ -13,6 +13,14 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "10709b5ce1bb301dbf7843834edc09712822310c6cee53f122c5be4a7b6e6481"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "5c87b59812e0bcf732de20ad3100b9142bdc223e0e066906b69e46ce77532181"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "a8cd3a2ae6255320fdddb100d51550ba09de23f741336d21ab090b1a6e9bc8a3"
+
+[[files]]
 file = "kubejs/server_scripts/coins.js"
 hash = "786202f0edf82676e83efa4ef5594ec5836b35a4d032cccd50f26842d3bed854"
 
