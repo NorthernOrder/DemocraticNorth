@@ -5,6 +5,10 @@ file = "config/betterf3.json"
 hash = "6090b07d4effa46513ff68eed3873ac0cff05667101c38c15eb5373e0e23ed3d"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
+
+[[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "10709b5ce1bb301dbf7843834edc09712822310c6cee53f122c5be4a7b6e6481"
 
