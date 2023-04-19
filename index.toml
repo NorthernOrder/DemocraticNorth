@@ -78,6 +78,11 @@ hash = "09ea62dee8d87e8ad9fdc85aba2e227516b85465de39dc8451df2b4e4b6fe412"
 metafile = true
 
 [[files]]
+file = "mods/blockus.pw.toml"
+hash = "ee151578152392d43d36de142848d4d8a765f4eecc24621c0d963c354a711206"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "4c8b3f9a71800e1f6e77c552601088e3de499512688dc817468c37f63edd67ce"
 metafile = true
@@ -85,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "802417d1c24f779c3fda82006012747309b11038c37d5c2f64a96257ad88dfa3"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "5e6e844c0d69d2d70ba909dac227a90075ba6ee4f166a73896f6cdc9077a07b6"
 metafile = true
 
 [[files]]
@@ -118,6 +128,11 @@ hash = "0318b9dd838aec0a1b7d5393a80e0119efabbb4dba692ae8dbb239cd849876bd"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "54fa3d88cf3630e694502184e1e2ed0be042dc9517593eb15d09dc7f174df1c8"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
@@ -130,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "113845c6f34fc699d57dffe95e5c3ddd41cb996ddeb04ec21529e3159c3dc3bf"
+metafile = true
+
+[[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "9e0b5062155422d62777c15d14b7767a20d42920aaf582635680bed5ec5a0c84"
 metafile = true
 
 [[files]]
