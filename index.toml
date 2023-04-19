@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgero.pw.toml"
-hash = "f963d3af268f8a259db4ea368347d96481e71cc0ddb4c89b55339047f11967b2"
+hash = "a475af14efbfaaa67e730299c56e36cc1d42b44ff18130826f9a417db0983528"
 metafile = true
 
 [[files]]
