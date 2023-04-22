@@ -25,6 +25,10 @@ file = "kubejs/server_scripts/coins.js"
 hash = "786202f0edf82676e83efa4ef5594ec5836b35a4d032cccd50f26842d3bed854"
 
 [[files]]
+file = "kubejs/server_scripts/overlapping.js"
+hash = "8a5f36f3ccd9bf553164ea1b7bb47a23de35534ba4e06b67bb9570987925e0e3"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "4d09afbccd4c5469b88602e12add007210bd3578c6313b2c8138937d1d547caf"
 metafile = true
