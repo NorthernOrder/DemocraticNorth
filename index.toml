@@ -74,8 +74,18 @@ hash = "c03a4530cf7645c69c164d1c6808e3d576b6d807a41569ff0c3619e9458da5c4"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "5969255784945bf4fa184d89e6c32e5b430122161f9c6b2cce08574f46f10c87"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "9efcdd458f181b58419881cfcaaf7bda2832de2e374844a647d668af849657b2"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
 
 [[files]]
@@ -111,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/botania-fabric.pw.toml"
 hash = "5da8e35c6b2b5a0ccd4e628cc2490024341d5d2b565b2d0ce3478d8cbd9a66d8"
+metafile = true
+
+[[files]]
+file = "mods/can-i-mine-this-block.pw.toml"
+hash = "b2e05910ec1eb57efcf9fc8714668ee733d4a8631383399e92fc20debb0d1e1f"
 metafile = true
 
 [[files]]
@@ -189,6 +204,11 @@ hash = "9e8a66d43611d16b5809628f192db4c81ec55c2a6dead5d4cd85923f0cbb2d6c"
 metafile = true
 
 [[files]]
+file = "mods/dual-riders.pw.toml"
+hash = "5b04cb3c97aa2cb01a67ea40eeb01cdf16104cb98830ab2dd8790533edf6f761"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
@@ -200,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
@@ -279,6 +299,11 @@ hash = "f9bc943941a37dc1d097271801dfe6c3af3210c2b94ac2a0c86f46afa8370e60"
 metafile = true
 
 [[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
@@ -329,6 +354,11 @@ hash = "07440b33c32e9b1c3b84ee11ed64ffac2d321ff15cb58a869195995316974677"
 metafile = true
 
 [[files]]
+file = "mods/jumpy-boats-fabric.pw.toml"
+hash = "ae6ba8751a4bffab1cdb430210a08f498f28fa6c5ab0775aac4a7c242fb9df0b"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
 metafile = true
@@ -371,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "352970387606deb41cca35a1316f4ae09331142962fbd923ff998265decfb362"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "502d1d1e0b9be3b91e454bdd4d5f91c216357275d0f5c581e9c72f35030ecd2b"
 metafile = true
 
 [[files]]
@@ -541,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.pw.toml"
 hash = "b4918263643e419327c16c4493991cf62ba37b273b93cd5ed77f5b2ae02e07d2"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "33182a32e49cacb0e697b8fb9b114fed222af3877422b6a06d3103716ebb1b9b"
 metafile = true
 
 [[files]]
