@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "9e0b5062155422d62777c15d14b7767a20d42920aaf582635680bed5ec5a0c84"
+hash = "19d7a6c74d602cd7fec2506804bd703359d9074f9ee9e40b8c061fc192c27a75"
 metafile = true
 
 [[files]]
