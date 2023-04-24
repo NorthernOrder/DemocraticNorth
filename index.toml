@@ -204,11 +204,6 @@ hash = "9e8a66d43611d16b5809628f192db4c81ec55c2a6dead5d4cd85923f0cbb2d6c"
 metafile = true
 
 [[files]]
-file = "mods/dual-riders.pw.toml"
-hash = "5b04cb3c97aa2cb01a67ea40eeb01cdf16104cb98830ab2dd8790533edf6f761"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
