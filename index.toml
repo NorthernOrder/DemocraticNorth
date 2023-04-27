@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "70ce754e40398d862eafd167cce1dffe619add7b9abf9600d8f172612d5b3d2a"
+hash = "cc60139375f03edeb630730779f17d06a5d3ac99daae8f41415fa8adf903b960"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
+hash = "a1793fb3d541ce4e7a6d606b180287ffe0e08d660a2e03db33bcb06815e25668"
 metafile = true
 
 [[files]]
@@ -265,12 +265,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "fadeaf3af074696c20d84daae96044c22c60b8047fc3971120b0030f580c8993"
+hash = "be80427ed2f57d16781d2ce92b140fdb41abe875d9b791922693b012f7108c8d"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
-hash = "bca83c69078cf988921a10928fdbceb915090542822bb5c17a021c4b810b52d8"
+hash = "594c9590f765ab9b97da09852488095c14ab548b95f6879619e8cc39a3d6ab1d"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "9c0052cbcfe29350d620eb9f4c84495a006ff82dee0ad3d45c15365552b0587a"
+hash = "0517c3d5912261e90c3281c784e063dd98e2dee97a51a030a8c073275e480da9"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "26a737742ab04c779ba6f6b31d12143bdf3ab935285dd6d1df119e14cff5ac9a"
+hash = "c4cb149e31fa7bb5fbad1667015e07bf4e6e2c38fce6f0c7264a3cacf0c81209"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ebf4680c6552751d89d870a6121ac421c0a281fc79a605c85a5054210820f828"
+hash = "43b8876c542e2ab9e923e0ea1e4a05b08a302258d41e6dc7dc1b5a7d90e7c855"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
+hash = "9998738e158a3c70344c63af68df941d64c1a23423a747e5ac52edd9dcb353b5"
 metafile = true
 
 [[files]]
@@ -600,5 +600,5 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "7ea2524e033e5c0e36fe61e2643eddbbda8439eaebf7c3ddd2df1714ab2fe517"
+hash = "35f6a3eb633386dfefe0cbc0ec02bb7095badd666413f5a6eb5f85f352f7975d"
 metafile = true
