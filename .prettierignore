@@ -1,6 +1,5 @@
 config
 defaultconfigs
-kubejs
 openloader
 src/probe
 instance
