@@ -1,3 +1,3 @@
-ServerEvents.recipes(event => {
-	event.remove({ mod: "coinsje" })
-})
+ServerEvents.recipes((event) => {
+  event.remove({ mod: "coinsje" });
+});
