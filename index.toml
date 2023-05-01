@@ -118,7 +118,7 @@ hash = "eb17e9b56e2976cbddfb84aa0f08b55de144df4ceab6cbf6a3044517242c5942"
 
 [[files]]
 file = "kubejs/server_scripts/tomsstorage.js"
-hash = "d588a6552dd1563917ca2cbd30dda893f4d15d3c661a6e55aa5d5a4c6d01e5f4"
+hash = "04f90fe862806a1427e61ba8973f2f5fe885e427a305c52626c942ddd8c9b5b0"
 
 [[files]]
 file = "kubejs/server_scripts/wtf.js"

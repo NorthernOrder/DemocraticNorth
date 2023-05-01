@@ -47,7 +47,7 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.minecraft.crafting_shaped(
-    "toms_storage:ts.inventory_cable",
+    "8x toms_storage:ts.inventory_cable",
     ["CBC"],
     {
       C: "#c:cast_iron_plates",
