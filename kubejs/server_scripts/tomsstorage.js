@@ -56,8 +56,22 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.minecraft.crafting_shapeless(
+    "toms_storage:ts.inventory_cable_framed",
+    ["toms_storage:ts.inventory_cable", "minecraft:stick", "minecraft:stick"],
+  );
+
+  event.recipes.minecraft.crafting_shapeless(
     "toms_storage:ts.inventory_cable_connector",
     ["create:chute", "toms_storage:ts.inventory_cable"],
+  );
+
+  event.recipes.minecraft.crafting_shaped(
+    "toms_storage:ts.inventory_cable_connector_framed",
+    ["SSS", "SCS", "SSS"],
+    {
+      S: "minecraft:stick",
+      C: "toms_storage:ts.inventory_cable_connector",
+    },
   );
 
   event.recipes.minecraft.crafting_shapeless(
