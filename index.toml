@@ -13,6 +13,10 @@ file = "config/byg/biomepedia.json5"
 hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
 
 [[files]]
+file = "config/modern_industrialization.toml"
+hash = "ac305391ec40cacbac03eee366e6b9e1e3276fdcf4cb5c3fcebd5af6ed78e227"
+
+[[files]]
 file = "config/openloader/resources/Create+Simple+Storage+1.1/assets/toms_storage/models/block/cable_connector/base.json"
 hash = "de2bd82773201064a563f46dead3a5db87f47de94aaf36b25321659a06ffc571"
 
