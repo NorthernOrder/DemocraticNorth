@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
+hash = "e2247eec92525ab53c6321cba8074de0e94bf49c113c1f31a779fceab132a6b4"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "0318b9dd838aec0a1b7d5393a80e0119efabbb4dba692ae8dbb239cd849876bd"
+hash = "702a42b07f92e35760dfeff5a3fc1cefa40db714c1de00db04d412f24bbe6fcb"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "19d7a6c74d602cd7fec2506804bd703359d9074f9ee9e40b8c061fc192c27a75"
+hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "00e48fe95ddf8c3b9cbdba769890827e1919f1fa0faf7e9c68a676ce1508c10c"
+hash = "41850b618156f9bd79bc245901a022244b0020c9de3136277514f5447ba23f0d"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
-hash = "594c9590f765ab9b97da09852488095c14ab548b95f6879619e8cc39a3d6ab1d"
+hash = "9611f83f2134e57c879a380aafe900decc6a10b2574f15e208081bedba93c7b5"
 metafile = true
 
 [[files]]
