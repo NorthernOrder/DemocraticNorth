@@ -434,6 +434,11 @@ hash = "f4ce79d79d2a5bc0c7a979341494365743adceecab63424803e4154537446e46"
 metafile = true
 
 [[files]]
+file = "mods/gag.pw.toml"
+hash = "6ce92cf71da53fe64747acc1510807b1271776b94ab403f9bd507c68d44fd3a4"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
