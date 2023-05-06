@@ -234,6 +234,11 @@ hash = "5da8e35c6b2b5a0ccd4e628cc2490024341d5d2b565b2d0ce3478d8cbd9a66d8"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "a372e9db0200f82bb13b7e5b8962a36cc090cfc2afb2ed660ad042f489ea7b7c"
 metafile = true
@@ -246,6 +251,16 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "7c49c8e6fd596ed9aeacca9eb10e5c981250d200ccb8fc72ce1c9123a9635301"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
 metafile = true
 
 [[files]]
@@ -331,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
+metafile = true
+
+[[files]]
+file = "mods/dank-storage-fabric.pw.toml"
+hash = "67c358d2b2e8f4262d74c2ae3a25f25006b2ad71610046ccbe171d241d12a824"
 metafile = true
 
 [[files]]
@@ -659,6 +679,11 @@ hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "9b0995d469116c38c30ea1b5141949652cb37671f4d671edcc9e22548fd2eb20"
 metafile = true
@@ -734,6 +759,11 @@ hash = "d0425c90bbc67eda73ae3313c264d843bdf3aee2ebd5f487678b25dd9ac7e4cd"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "8f3a781db770fbcdac185c49ea914cceca1b76620b7d5776dc2e7f00669c7676"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "98dacf43b37594d17c93c3de160a8cff6c108f816bfa2e79ee26a9e8240714a8"
 metafile = true
@@ -791,6 +821,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.pw.toml"
 hash = "b4918263643e419327c16c4493991cf62ba37b273b93cd5ed77f5b2ae02e07d2"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
 metafile = true
 
 [[files]]
