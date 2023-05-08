@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgero.pw.toml"
-hash = "f5e3d7e5344174a9f0078177efd121ae82393314e28872424b1275b4994f9af0"
+hash = "181a2980d2b872a3b2a9cc359e1cb34db9b19cc5b668bfb1fbe642cc055fd4f6"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "d8132393ac068ed263d2ca657b6feee40cfb0455f7883c683c414cd3bc86ca36"
+hash = "b18a6ab3c6031c708089d9c50e08a1773fcdea45fdb76e359c9cd5a95f01de39"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "3ed0d1616b51d0495e608eab4316606f972ffe30a94e9906533f4d1b90787887"
+hash = "c99617528f72915136eda03097a80485c620df26e6f29d1e2e2289b7e6cdb359"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "753902e67859c09d378466560b61aab1747400cb030affa0629b19ba245e404a"
+hash = "e8579ecb4f9d0aa0f43f1b70df49e3b3e846932ab4c9087b6c4b23ee47f90d86"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b4313319672ddaed8bf4e43240310e5ee694a353aa7eca816ea4411e9a0672b1"
+hash = "6df8433306f4d8fb1b0f8c0d9ee5e5d557a3fac6f5144fdb853f31842795ad78"
 metafile = true
 
 [[files]]
@@ -835,12 +835,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4e7b7ee4952f4caffd8314510b050ac8c7e542fe8371e450ee7d96789b99c2c0"
+hash = "a5be740c4be988bd34c64fe88d84df011cfb894e438743e0249fff47e7457ca6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ddb32bebc93de51dea1349e9ddd32d9d51dca6b3dffdf69a7e1466e295e2f498"
+hash = "b52f134a96b80a850c9094a009ceecb418527901327f9c3cf0923c7c3bce1d5f"
 metafile = true
 
 [[files]]
