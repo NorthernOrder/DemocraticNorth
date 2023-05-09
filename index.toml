@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "ee151578152392d43d36de142848d4d8a765f4eecc24621c0d963c354a711206"
+hash = "8f9c654649264447d0c5aa67f130d89974dac6695e87a204f81f2260a13f56c1"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
+hash = "dd49ac0baa101bd7063a5b04ab05320918b7de19d8653ee1d5129892dbf3e3ca"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "c99617528f72915136eda03097a80485c620df26e6f29d1e2e2289b7e6cdb359"
+hash = "641417636565feb2e7e6531b48956b5b4c9e08ff911709d9807f8388e64cb09d"
 metafile = true
 
 [[files]]
