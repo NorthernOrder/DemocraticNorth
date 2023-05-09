@@ -139,6 +139,11 @@ hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "fe0c6414ed16ae36a3dfe45408659d5ac1855ff56095a1e85f1646ac5134f349"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "cd0a07a681dea5c6924f4bea78993241a8b63b2dfe5d99749ac7b352642118c3"
 metafile = true
@@ -246,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/can-i-mine-this-block.pw.toml"
 hash = "b2e05910ec1eb57efcf9fc8714668ee733d4a8631383399e92fc20debb0d1e1f"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
@@ -819,6 +829,11 @@ hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
 metafile = true
 
 [[files]]
+file = "mods/utility-belt.pw.toml"
+hash = "bd8b1d6b71204c2b6548c38ccef1add5570b6c06472d3fdc37d65ee6b9da501b"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-hammers.pw.toml"
 hash = "b4918263643e419327c16c4493991cf62ba37b273b93cd5ed77f5b2ae02e07d2"
 metafile = true
@@ -856,4 +871,9 @@ metafile = true
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "35f6a3eb633386dfefe0cbc0ec02bb7095badd666413f5a6eb5f85f352f7975d"
+metafile = true
+
+[[files]]
+file = "mods/yttr.pw.toml"
+hash = "74257a39c616938aed0b5764b244780ff7aef3fd6f7b535a9603f9d9f4a6dded"
 metafile = true
