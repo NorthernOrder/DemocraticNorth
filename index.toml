@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
-hash = "9611f83f2134e57c879a380aafe900decc6a10b2574f15e208081bedba93c7b5"
+hash = "6500e4d72846023569a72fad102d429e3bda2815806b98267f6ab36586c60d29"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "0dba52958fd6a8f9a1118550a12e2a58badca0f5514ef82c7b29c059026a4d5f"
+hash = "8c541794c56c2519f8b4eadd0c3a2ec5541f6c7c57c0722fe3b6c357a73f101f"
 metafile = true
 
 [[files]]
